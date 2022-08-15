@@ -1,4 +1,4 @@
-## Whatsapp Server:
+# Whatsapp Server:
 The server of our message app.
 Developed by Sivan Jhirad & Ofri Zangi.
 
@@ -7,7 +7,7 @@ It includes 2 projects:
 1. vWebWhatsappApi - the server of the whatsapp message app.
 2. WhatsappProject - the server of the rating app.
 
-# Set Up:
+## Set Up:
 This app uses MariaDB.
 We have 2 databases:
 
@@ -16,9 +16,9 @@ We have 2 databases:
 
 The password in the connection string of both of them is - 123456.
 
-# How To Run?
+## How To Run?
 1. pull all files from git
 2. Run both of the projects in the solution - WebWhatsappApi, WhatsappProject.
 
-# Link to the react project:
+## Link to the react project:
 https://github.com/ofrizangi/Whatsapp_client
